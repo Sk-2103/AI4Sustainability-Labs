@@ -1,0 +1,15 @@
+# Labs 01-05 (Lab 06 installs pinned TerraTorch dependencies in its first cell; Colab recommended)
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+requests
+wbgapi
+ipywidgets
+torch
+torchgeo
+rasterio
+kornia
+dataretrieval
+jupyterlab
